@@ -26,7 +26,7 @@ Day 1 focused on understanding the fundamentals of Salesforce CRM, its business 
 
 ## 🎬 Videos Watched
 
-What is Salesforce 
+What is Salesforce, 
 Salesforce CRM 
 
 ---
