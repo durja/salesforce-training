@@ -1,3 +1,3 @@
 # Week1
 
-This folder contains daily practice work and assignments.
+This folder contains Salesforce Summer Program daily work.
