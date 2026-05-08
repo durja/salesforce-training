@@ -8,33 +8,33 @@ Salesforce Platform is a cloud-based platform used to build and manage business 
 # Salesforce Concepts
 
 ## App 
-- Collection of related tabs and objects.
+Collection of related tabs and objects.
 Example: College Management App
 
 ## Object 
-- Database table used to store data.
+Database table used to store data.
 Example: Student
 
 ## Tab 
-- Used to access objects and records in Salesforce.
+Used to access objects and records in Salesforce.
 
 ---
 
 # CRM + Platform Understanding 
-- Accounts, Contacts, and Opportunities are stored as Objects in Salesforce Apps. Users access and manage them using Tabs in the Salesforce interface.
+Accounts, Contacts, and Opportunities are stored as Objects in Salesforce Apps. Users access and manage them using Tabs in the Salesforce interface.
 
 ---
 
 # Configuration vs Coding
 
 ## Configuration (No Code) 
-- Used for simple customization using clicks.
+Used for simple customization using clicks.
 Examples:
 - Creating fields
 - Building workflows
 
 ## Coding (Apex) 
-- Used for advanced logic and custom functionality. 
+Used for advanced logic and custom functionality. 
 Examples:
 - Custom automation
 - Complex business validation
