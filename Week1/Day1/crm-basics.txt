@@ -60,12 +60,12 @@ Example: A student who successfully joins the college.
 
 TASK 2 - 
 
-# Real-Life Mapping – College Admission System
+# Real-Life Mapping – College Management System
 
-| Salesforce Concept | Real-Life Example   | 
-|--------------------|---------------------|
-| Account            | College             |
-| Contact            | Student             |
-| Lead               | Interested Applicant|
-| Opportunity        | Admission Process   |
+| Salesforce Concept | Real-Life Example      |
+|--------------------|------------------------|
+| Account            | College                |
+| Contact            | Student                |
+| Lead               | New Student Inquiry    |
+| Opportunity        | Course Enrollment      |
 
