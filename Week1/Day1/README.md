@@ -30,9 +30,7 @@ Example: Student
 An Opportunity represents a potential business deal or process.
 Example: Admission Process
 
----Core Tasks---
-
-TASK 1 -
+---
 
 # Understand Business Flow
 
@@ -51,8 +49,6 @@ Customer : A Customer is the final successful result after completing the proces
 Example: A student who successfully joins the college.
 
 ---
-
-TASK 2 - 
 
 # Real-Life Mapping – College Management System
 
