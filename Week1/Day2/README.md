@@ -20,6 +20,7 @@ By end of today, understood:
 
 ## 1. Salesforce Platform Explained (Apps, Objects, Tabs) -
 https://www.youtube.com/watch?v=1n7sR6g3s7Y
+
 Topics Covered:
 - What is an App
 - What is an Object
@@ -28,6 +29,7 @@ Topics Covered:
 
 ## 2. Salesforce Architecture Explained -
 https://www.youtube.com/watch?v=Y2b9c7tRz6Q 
+
 Topics Covered:
 - Multi-tenant architecture
 - How Salesforce platform works
@@ -35,6 +37,7 @@ Topics Covered:
 
 ## 3. Developer vs Admin in Salesforce -
 https://www.youtube.com/watch?v=Qv6sV0l0s2E 
+
 Topics Covered:
 - Configuration vs Coding
 - When to use clicks
