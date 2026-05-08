@@ -1,57 +1,64 @@
 # 🚀 Salesforce Summer Program – Day 1 CRM Basics
 
----
-
-## 🎯 Goal for Today
-Understanding:
-- What Salesforce is
-- What CRM means
-- Role of Salesforce Developers
-- Basic Salesforce Playground environment
-  
----
-
-# 📚 Trailhead Modules Completed
-
-1. Salesforce Values: Quick Look  
-2. Salesforce Developer: Quick Look  
-3. Salesforce CRM  
-4. Trailhead Playground Management  
+## What is CRM
+CRM stands for Customer Relationship Management. It is used by companies to manage customer information, communication, sales activities, and support services in one platform.
+CRM helps businesses improve customer relationships and organize their workflow efficiently.
 
 ---
 
-# 🎬 Videos Watched
-
-## 1. What is CRM + Salesforce Overview - 
-https://www.youtube.com/watch?v=ZK-rNEhJIDs
-
-Topics Covered:
-- Why CRM exists
-- How companies use Salesforce
-- Customer and sales management
-- Business workflow basics
-
-## 2. Accounts, Contacts, Opportunities Explained -
-https://www.youtube.com/watch?v=9GqQ3h2h8wQ 
-
-Topics Covered:
-- Account represents a company
-- Contact represents a person
-- Opportunity represents a business deal
-- Relationship between Accounts, Contacts, and Opportunities
+## Why Companies Use Salesforce
+Companies use Salesforce to:
+- Manage customer relationships
+- Track sales and opportunities
+- Improve customer support
+- Automate workflows
+- Store business data in one platform
 
 ---
 
-# ✅ Core Tasks 
+# Salesforce Concepts
 
-## Task 1: Understand Business Flow
-   Lead → Contact → Opportunity → Customer
+## Account
+An Account represents a company or organization.
+Example: College
 
-## Task 2: Real-Life Mapping – College Admission System
+## Contact
+A Contact represents a person associated with an account.
+Example: Student
+
+## Opportunity
+An Opportunity represents a potential business deal or process.
+Example: Admission Process
+
+---Core Tasks---
+
+TASK 1 -
+
+# Understand Business Flow
+
+## Lead → Contact → Opportunity → Customer
+
+Lead : A Lead is a person who shows interest in a product, service, or organization but is not yet confirmed as a customer.
+Example: A student asking about college admission.
+
+Contact : A Contact is a person whose details are verified and stored in the system for communication and follow-up.
+Example: A student who submitted an application form.
+
+Opportunity : An Opportunity represents a possible business process or deal that may become successful.
+Example: Admission process for the student.
+
+Customer : A Customer is the final successful result after completing the process or deal.
+Example: A student who successfully joins the college.
 
 ---
 
-# 💡 Learnings
-- Learned the basics of Salesforce CRM and business workflow.
-- Understood Accounts, Contacts, Leads, and Opportunities.
-- Learned how to use Salesforce Playground for practice.
+TASK 2 - 
+
+# Real-Life Mapping – College Management System
+
+| Salesforce Concept | Real-Life Example      |
+|--------------------|------------------------|
+| Account            | College                |
+| Contact            | Student                |
+| Lead               | New Student Inquiry    |
+| Opportunity        | Course Enrollment      |
