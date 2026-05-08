@@ -8,6 +8,15 @@ Day 1 focused on understanding the fundamentals of Salesforce CRM, its business 
 
 
 ---
+## 🎯 Goal for Today
+Understanding:
+- What Salesforce is
+- What CRM means
+- Role of Salesforce Developers
+- Salesforce Playground basics
+- Basic business workflow
+
+---
 
 ## 📚 Topics Covered
 
@@ -26,12 +35,25 @@ Day 1 focused on understanding the fundamentals of Salesforce CRM, its business 
 
 ## 🎬 Videos Watched
 
-What is Salesforce, 
-Salesforce CRM 
+1. What is CRM + Salesforce Overview 
+https://www.youtube.com/watch?v=ZK-rNEhJIDs 
+2. Accounts, Contacts, Opportunities Explained 
+https://www.youtube.com/watch?v=9GqQ3h2h8wQ 
+
 
 ---
 
-## 🔗 Trailhead Modules Completed
+# 📚 Trailhead Modules Completed
 
-- Platform Basics
-- Data Model Basics
+1. Salesforce Values: Quick Look  
+2. Salesforce Developer: Quick Look  
+3. Salesforce CRM  
+4. Trailhead Playground Management
+
+---
+
+# 💡 Learnings
+
+- Learned the basics of Salesforce CRM and business workflow.
+- Understood Accounts, Contacts, Leads, and Opportunities.
+- Learned how to use Salesforce Playground for practice.
