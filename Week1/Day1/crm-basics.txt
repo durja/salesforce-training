@@ -20,21 +20,15 @@ Companies use Salesforce to:
 
 ## Account
 An Account represents a company or organization.
-Example:
-- College
-- Hospital
+Example: College, Hospital
 
 ## Contact
 A Contact represents a person associated with an account.
-Example:
-- Student
-- Patient
+Example: Student, Patient
 
 ## Opportunity
 An Opportunity represents a potential business deal or process.
-Example:
-- Admission Process
-- Treatment Process
+Example: Admission Process, Treatment Process
 
 ---Core Tasks---
 
