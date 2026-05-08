@@ -6,30 +6,38 @@
 
 Day 1 focused on understanding the fundamentals of Salesforce CRM, its business importance, Salesforce Objects, Records, Data Models, and the role of Salesforce Developers in building business applications.
 
-
 ---
-## 🎯 Goal for Today
-Understanding:
-- What Salesforce is
-- What CRM means
-- Role of Salesforce Developers
-- Salesforce Playground basics
-- Basic business workflow
+
+# What is CRM
+- CRM stands for Customer Relationship Management. It helps companies manage customer data, sales, communication, and support services efficiently.
 
 ---
 
-## 📚 Topics Covered
+# Why Companies Use Salesforce
+- Manage customer relationships
+- Track sales and business workflow
+- Improve customer support
+- Store and organize business data
+- Automate business processes
 
-- Introduction to Salesforce
-- What is CRM
-- Importance of Salesforce in Business
-- Salesforce Interface Basics
-- Leads, Accounts, and Contacts
-- Objects and Records
-- Salesforce Data Model Basics
-- Salesforce Admin vs Developer
-- Cloud-Based CRM Platform
-- Real-World Salesforce Applications
+---
+
+# Salesforce Concepts
+
+- Account : Represents a company or organization.
+- Contact : Represents a person associated with an account.
+- Opportunity : Represents a potential business deal or sale.
+
+---
+
+# Real-World Mapping – College Admission System
+
+| Salesforce Concept | Real-Life Example |
+|-------------------|------------------|
+| Account | College |
+| Contact | Student |
+| Lead | Interested Applicant |
+| Opportunity | Admission Process |
 
 ---
 
@@ -39,7 +47,6 @@ Understanding:
 https://www.youtube.com/watch?v=ZK-rNEhJIDs 
 2. Accounts, Contacts, Opportunities Explained 
 https://www.youtube.com/watch?v=9GqQ3h2h8wQ 
-
 
 ---
 
