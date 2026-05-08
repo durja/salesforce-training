@@ -1,4 +1,4 @@
-# 🚀 Salesforce Summer Program – Day 1 CRM Basics
+# CRM Basics
 
 ## What is CRM
 CRM stands for Customer Relationship Management. It is used by companies to manage customer information, communication, sales activities, and support services in one platform.
