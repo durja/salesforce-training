@@ -22,14 +22,18 @@ Understanding:
 
 # 🎬 Videos Watched
 
-## 1. What is CRM + Salesforce Overview - https://www.youtube.com/watch?v=ZK-rNEhJIDs 
+## 1. What is CRM + Salesforce Overview - 
+https://www.youtube.com/watch?v=ZK-rNEhJIDs
+
 Topics Covered:
 - Why CRM exists
 - How companies use Salesforce
 - Customer and sales management
 - Business workflow basics
 
-## 2. Accounts, Contacts, Opportunities Explained - https://www.youtube.com/watch?v=9GqQ3h2h8wQ 
+## 2. Accounts, Contacts, Opportunities Explained -
+https://www.youtube.com/watch?v=9GqQ3h2h8wQ 
+
 Topics Covered:
 - Account represents a company
 - Contact represents a person
@@ -38,7 +42,7 @@ Topics Covered:
 
 ---
 
-# ✅ Core Tasks Completed
+# ✅ Core Tasks 
 
 ## Task 1: Understand Business Flow
    Lead → Contact → Opportunity → Customer
