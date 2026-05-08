@@ -1,4 +1,4 @@
-# 🚀 Salesforce Summer Program – Day 2 Platform Basics
+# Platform Basics
 
 # What is Salesforce Platform?
 Salesforce Platform is a cloud-based platform used to build and manage business applications.
