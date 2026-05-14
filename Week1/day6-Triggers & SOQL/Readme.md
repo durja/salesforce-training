@@ -3,36 +3,32 @@
 ---
 
 # 📖 What is SOQL?
-SOQL (Salesforce Object Query Language) is used to retrieve data from Salesforce objects and records.
+SOQL is used to retrieve data from Salesforce objects and records.
 
-It helps users search, filter, and access data stored in Salesforce.
+It helps users search and access data stored in Salesforce.
 
 ---
 
 # 📖 What is an Apex Trigger?
-An Apex Trigger is code that runs automatically when records are created, updated, deleted, or restored in Salesforce.
+An Apex Trigger is code that runs automatically when records are created, updated, or deleted.
 
-Triggers help automate business actions based on data changes.
+It helps automate actions based on data changes.
 
 ---
 
-# 🔄 Difference Between Flow and Trigger
+# 🔄 Flow vs Trigger
 
 ## Flow
 - No-code automation
-- Easier to build
-- Used for simple automation
+- Used for simple tasks
 
 Examples:
 - Email notifications
 - Updating records
 
----
-
 ## Trigger
 - Code-based automation
-- Used for complex business logic
-- More flexibility and control
+- Used for complex logic
 
 Examples:
 - Complex validations
@@ -43,60 +39,42 @@ Examples:
 # 🔄 Before vs After Trigger
 
 ## Before Trigger
-Runs before data is saved to the database.
+Runs before saving data.
 
 Example:
-- Validate student information before saving
+- Validate student details
 
 ## After Trigger
-Runs after data is saved.
+Runs after saving data.
 
 Example:
-- Send confirmation email after registration
+- Send welcome email
 
 ---
 
 # 💡 Trigger Use Cases – College Management System
 
-## 1. Student Registration
-After student registration → send welcome email.
-
-## 2. Course Full Notification
-After course becomes full → notify faculty.
-
-## 3. Attendance Warning
-After attendance drops below 75% → send warning.
-
-## 4. Fee Payment
-After fee payment → update payment status.
-
-## 5. Course Enrollment
-After enrollment → reduce remaining seats automatically.
+1. After student registration → send welcome email  
+2. After course becomes full → notify faculty  
+3. After attendance drops below 75% → send warning  
+4. After fee payment → update payment status  
+5. After enrollment → reduce remaining seats  
 
 ---
 
 # ⚙️ Flow vs Trigger Thinking
 
-## Simple Email Notification
-Use Flow because it is simple automation.
-
-## Complex Fee Eligibility Check
-Use Apex Trigger because logic is complex.
-
-## Updating Related Records
-Use Flow for simple updates.
-
-## External API Integration
-Use Apex Trigger for advanced integration logic.
+- Simple email notification → Flow  
+- Complex fee eligibility check → Trigger  
+- Updating related records → Flow  
+- External API integration → Trigger  
 
 ---
 
 # 🔍 Query Examples
 
-- Find all students in Course A
-- Find all courses handled by Faculty X
-- Find students with attendance below 75%
-- Find students who did not pay fees
-- Find courses with available seats
-
----
+- Find all students in Course A  
+- Find all courses handled by Faculty X  
+- Find students with attendance below 75%  
+- Find students who did not pay fees  
+- Find courses with available seats  
