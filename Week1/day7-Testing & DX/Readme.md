@@ -39,3 +39,35 @@ Platform Event sends notification →
 Database stores records →  
 Reports show student analytics
 
+---
+
+# ✅ Important Test Cases
+
+## 1. Invalid Email
+Checks if incorrect emails are blocked.
+
+## 2. Duplicate Registration
+Prevents same student from registering multiple times.
+
+## 3. Course Overbooking
+Ensures seats do not exceed limit.
+
+## 4. Attendance Calculation
+Checks if attendance percentage is calculated correctly.
+
+## 5. Trigger Execution
+Verifies automatic actions work properly.
+
+---
+
+# 💡 Async Processing Examples
+
+1. Sending bulk emails  
+2. Large report generation  
+3. Data synchronization between systems  
+
+---
+
+# 💻 Developer Workflow Reflection
+
+Developers use GitHub, DX, and CLI for better collaboration, version control, faster development, and easier deployment instead of only browser-based changes.
