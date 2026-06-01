@@ -1,80 +1,22 @@
 # Day 14 – Flow Governance & Approval Processes
 
-## Multi-Level Approval Design
+## Approval Workflow Examples
 
-### 1. Course Creation Approval
+### Course Creation
 
-**Approval Order:**
+Faculty submits a course proposal. The Department Head reviews it, followed by the Dean. Once approved, the course is added to the academic catalog. If rejected, it is returned for modification.
 
-1. Faculty submits course proposal
-2. Department Head reviews
-3. Academic Dean approves
-4. Registrar activates course
+### Faculty Leave Request
 
-**After Approval:**
+A faculty member submits a leave request. The Department Head reviews it and then the Principal gives final approval. Rejected requests are sent back with comments.
 
-* Course is added to the course catalog.
-* Students can register.
+### Student Scholarship Request
 
-**After Rejection:**
+Students apply for scholarships. The Scholarship Committee reviews the application, Finance verifies eligibility, and the Principal gives final approval.
 
-* Proposal is returned to faculty with comments.
+### Budget Approval
 
----
-
-### 2. Faculty Leave Request
-
-**Approval Order:**
-
-1. Faculty submits leave request
-2. Department Head reviews
-3. Principal approves
-
-**After Approval:**
-
-* Leave is recorded in the system.
-* Timetable adjustments are initiated.
-
-**After Rejection:**
-
-* Leave request is declined and faculty is notified.
-
----
-
-### 3. Student Scholarship Request
-
-**Approval Order:**
-
-1. Student submits application
-2. Scholarship Committee reviews
-3. Finance Department verifies eligibility
-4. Principal gives final approval
-
-**After Approval:**
-
-* Scholarship amount is allocated.
-
-**After Rejection:**
-
-* Student receives rejection notification.
-
----
-
-### 4. Budget Approval
-
-**Approval Order:**
-
-1. Department submits budget request
-2. Finance Manager reviews
-3. Principal approves
-
-**After Approval:**
-
-* Budget is released for use.
-
-**After Rejection:**
-
-* Request is returned for revision.
+Departments submit budget requests. Finance reviews the request and the Principal approves the final budget allocation.
 
 ---
 
@@ -82,57 +24,26 @@
 
 ### Attendance Monitoring Flow
 
-**Decision Point 1**
+* Attendance below 75% → Warning email sent to student.
+* Attendance below 60% → Parent/guardian notified.
+* Attendance below 50% → Case escalated to administration.
 
-* If Attendance < 75%
-
-  * Send warning email to student.
-
-**Decision Point 2**
-
-* If Attendance < 60%
-
-  * Notify parents/guardians.
-
-**Decision Point 3**
-
-* If Attendance < 50%
-
-  * Escalate case to administration.
-
-### Actions Triggered
-
-* Warning notifications
-* Parent communication
-* Administrative intervention
-* Attendance tracking updates
+This flow uses decision elements to trigger different actions based on attendance percentage.
 
 ---
 
-## Governance Thinking
+## Governance
 
-Enterprise systems cannot allow everyone to directly modify important records because:
+Enterprise systems require governance to:
 
-* Protects sensitive data.
-* Prevents unauthorized changes.
-* Reduces human errors.
-* Maintains accountability.
-* Ensures approvals follow company policies.
-* Minimizes financial and operational risks.
-* Creates an audit trail for compliance.
+* Protect important data
+* Prevent unauthorized changes
+* Reduce business risks
+* Ensure accountability
+* Maintain compliance with organizational policies
 
 ---
 
 ## Reflection
 
-Controlled workflows are necessary because they ensure consistency, accountability, and compliance with business policies.
-
-Unrestricted actions may lead to:
-
-* Incorrect decisions
-* Data integrity issues
-* Security breaches
-* Financial losses
-* Lack of accountability
-
-Structured workflows provide transparency, auditability, and reliable business operations.
+Controlled workflows help organizations operate securely and efficiently. Approval processes and flow logic ensure that important actions are reviewed, tracked, and executed according to business rules, reducing errors and improving accountability.
